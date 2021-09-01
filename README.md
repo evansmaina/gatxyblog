@@ -1,0 +1,1 @@
+# gatxyblog made only frontend
